@@ -28,4 +28,4 @@ After this, you can run the command `make features`, which will create for you a
 
 ### Get in touch 
 
-Feel free to email me anytime at ssall@alumni.nd.edu. 
+Feel free to email me anytime at devsraheja77@gmail.com
